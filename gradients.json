@@ -1533,4 +1533,8 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+  {
+         "name": "Pragati"
+          "colors" : ["#FE9A2E","#FF4000","#FE2EF7"]
+  }
 ]
